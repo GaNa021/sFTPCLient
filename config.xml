@@ -1,8 +1,8 @@
 
 <config>
-	<Host>192.168.1.223</Host>
-	<UserName>teleprovision</UserName>
-	<Password>tp4pw$</Password>
-	<DestinationFolder>/home/teleprovision/HarshaVardhan</DestinationFolder>
-	<SourceFile>C:\Users\Harshavardhan\Desktop\TeleProvision Team Members Works Status(HarshaVardhan).xls</SourceFile>
+	<Host></Host>
+	<UserName></UserName>
+	<Password></Password>
+	<DestinationFolder></DestinationFolder>
+	<SourceFile></SourceFile>
 </config>
